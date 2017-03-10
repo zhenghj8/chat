@@ -1,0 +1,1 @@
+erl -pa ./ebin -run robot_client start 0 100
